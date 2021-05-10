@@ -16,4 +16,4 @@ Themes:
 ]]--
 
 getgenv().ThemeOption = "Midnight"  -- Themes are listed above!
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/BloxFruitsNew/main/src.lua"))()
+loadstring(game:HttpGet("https://github.com/NotJINXZ/BloxFruitsAUTOFARM/raw/main/main.lua"))()
